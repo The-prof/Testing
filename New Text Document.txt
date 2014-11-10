@@ -5,3 +5,5 @@ adding new modifications to the file
 new change to check the status how it gonna look
 
 WHF!!!
+
+trying to skip the staging area
